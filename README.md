@@ -44,7 +44,7 @@ The SQL analysis focuses on the following dynamic metrics, specifically filtered
 ## 🔍 Analytical Insights
 Based on the SQL analysis of this dataset, the following trends were identified:
 
-* Sales Growth: The business shows a strong upward trend in revenue from January through June. May specifically generated approximately $157k in revenue.
+* ## Sales Growth: ## The business shows a strong upward trend in revenue from January through June. May specifically generated approximately $157k in revenue.
 
 * Peak Hours: The busiest sales hours are consistently between 8:00 AM and 10:00 AM, aligning with the morning commute rush.
 
