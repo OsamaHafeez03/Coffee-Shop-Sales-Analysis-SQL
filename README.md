@@ -1,2 +1,2 @@
 # Coffee Shop Sales Analysis ☕📊
-*📌 Project Overview *
+* 📌 Project Overview *
